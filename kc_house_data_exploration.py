@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Table of Contents:
-# * <a href='#sec1'>Importing Data & Exploration<a>
-# * <a href="sec2">Scrubbing Our Data<a>
-# * <a href="#sec3">Modeling<a>
-# * <a href="#sec4">Multicollinearity testing & Cross Validation<a>
-# * <a href="#sec5">Graveyard of Calculated Features<a>
-
 # <h2 id="#sec1"> Importing Data & Exploration <h2>
 
 # In[1]:
